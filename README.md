@@ -1,20 +1,27 @@
 # CS50P - Mis soluciones
 
-Este repositorio contiene mis ejercicios del curso CS50P de Harvard.
+Este repositorio contiene mis soluciones a los ejercicios del curso **CS50P: Introduction to Programming with Python** de Harvard.
 
 ## Estructura del repositorio
 
-- **week0-functions/** - Semana 0: funciones y variables
-  - `hello.py` - Programa que saluda al usuario
-  - `calculator.py` - Calculadora básica
+Los ejercicios están organizados por semanas:
 
-- **week1-conditions/** - Semana 1: condicionales
-  - `compare.py` - Compara dos números
-  - `grade.py` - Calcula nota con if/else
+- `week0/` - Funciones, variables, entrada/salida
+- `week1/` - Condicionales
+- `week2/` - Bucles
+- `week3/` - Excepciones
+- `week4/` - Librerías
+- `week5/` - Pruebas unitarias
+- `week6/` - Archivos
+- `week7/` - Expresiones regulares
+- `week8/` - Programación orientada a objetos
+- `week9/` - Etcétera
 
-- **week2-loops/** - Semana 2: bucles (en progreso)
+## Requisitos
 
-## Cómo ejecutar
+- Python 3.12 o superior
+
+## Cómo ejecutar cualquier ejercicio
 
 ```bash
-python week0-functions/hello.py
+python weekX/nombre_archivo.py
