@@ -24,4 +24,22 @@ Los ejercicios están organizados por semanas:
 ## Cómo ejecutar cualquier ejercicio
 
 ```bash
+git clone https://github.com/tu-usuario/cs50p-solutions.git
+cd cs50p-solutions/week0
+python indoor.py
+python playback.py
+python faces.py
+python einstein.py
+python tip.py
+
+## Requisitos
+
+- Python 3.12 o superior
+
+
+
+
+
+
+```bash
 python weekX/nombre_archivo.py
